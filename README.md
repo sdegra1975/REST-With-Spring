@@ -1,4 +1,4 @@
-**UPDATE**: The price of "Learn Spring Security OAuth" will permanently change on the 11th of December, along with the upcoming OAuth2 material: http://bit.ly/github-lss
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/eugenp/REST-With-Spring) 
 
 # Resources
 - [REST With Spring] (http://bit.ly/restwithspring)
